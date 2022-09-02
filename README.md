@@ -1,1 +1,2 @@
-# biostat776-intro-Minghui-Zhang
+# Introducing myself
+This website contains a short introduction of Minghui
